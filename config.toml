@@ -30,5 +30,5 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]] 
   name = "<i class='fab fa-github'></i> Collaborate on Github"
   identifier = "ds"
-  url = "https://github.com/ryancbarry/epistemologers"
+  url = "https://github.com/Azaeres/epistemologers"
   weight = 13
