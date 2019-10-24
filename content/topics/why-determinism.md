@@ -1,7 +1,7 @@
 ---
 title: "Why Determinism"
 date: 2019-10-24T13:06:27-07:00
-draft: true
+draft: false
 tags: ["determinism", "computer science", "abstraction", "proof", "mathematics", "quantum mechanics"]
 ---
 
