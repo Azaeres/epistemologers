@@ -28,3 +28,6 @@ The reason classical theory thought the outcome was probabilistic was because th
 The deterministic view, by virtue of how it clarifies things, shows how probability emerges from a more fundamental, static structure. This also explains why there are no perfectly random processes to be found anywhere. They don’t exist.
 
 This of course runs contrary to common sense, since our experience is always set inside a causal structure that cannot be informed of alternate, parallel timelines. But common sense isn’t always our best judge. Our best explanations are.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In abstraction theory, logic consists of those elementary building blocks we can model any mathematical relationship with. This is thanks to the law of the universality of computation — the same law that prohibits the supernatural.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1186794356734222337?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

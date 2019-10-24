@@ -24,3 +24,6 @@ If an idea makes it through all these layers of constraint, it 1. Is logically c
 That inspiration can then yield new ideas that can be entered into the pipe.
 
 Not all ideas meet all these criteria, but this works as a loose guide for both developing factual information, and for using that information to shape our world for the better.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Problems are inevitable, and can be overwhelming even with a good strategy, but so far the best I’ve found is what I call the *Constraint Cycle*. 💫 <br><br>It’s a problem-detection pipeline for ideas that can make it all the way “from concept to market”. <a href="https://t.co/t5CD8ZHR3O">https://t.co/t5CD8ZHR3O</a></p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1185349383811813377?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
