@@ -7,4 +7,28 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "mine"
+
+[[menu.shortcuts]] 
+  name = "<i class='fab fa-twitter'></i> Azaeres"
+  identifier = "twa"
+  url = "https://twitter.com/Azaeres"
+  weight = 10
+
+[[menu.shortcuts]] 
+  name = "<i class='fab fa-twitter'></i> This Is Not Tea"
+  identifier = "twt"
+  url = "https://twitter.com/This_is_not_tea"
+  weight = 11
+
+[[menu.shortcuts]] 
+  name = "<i class='fab fa-youtube'></i> Epistemologers Channel"
+  identifier = "yt"
+  url = "https://www.youtube.com/channel/UC0ejafcpi5ib3BdWRrsJ23Q"
+  weight = 12
+
+[[menu.shortcuts]] 
+  name = "<i class='fab fa-github'></i> Collaborate on Github"
+  identifier = "ds"
+  url = "https://github.com/ryancbarry/epistemologers"
+  weight = 13
