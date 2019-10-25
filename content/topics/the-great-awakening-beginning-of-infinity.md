@@ -7,7 +7,7 @@ tags: ["decentralization", "great awakening", "beginning of infinity", "progress
 
 The Great Awakening is poised to dwarf the Western Enlightenment as what David Deutsch calls “a beginning of infinity”.[^1]
 
-In a crude nutshell, the Enlightenment was a rebellion that replaced the epistemic authority of the Church with the authority of sensory experience.
+In a nutshell, the Enlightenment was a rebellion that replaced the epistemic authority of the Church with the authority of sensory experience.
 
 While this step _was_ an improvement, its conclusion was _false_. Knowledge authorities don’t exist, and there is no reliable way to justify ideas as being true or probable.
 
