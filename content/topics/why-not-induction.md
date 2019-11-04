@@ -5,11 +5,11 @@ draft: false
 tags: ["induction", "logic", "philosophy", "karl popper", "empiricism", "creativity"]
 ---
 
-Induction fails to address, for example, why we wouldn’t just conclude that stars are just dots in the sky. Or why we wouldn’t conclude that the dots on our computer screen aren’t merely pixels.
+Induction fails to address, for example, why we wouldn’t just conclude that stars are just dots in the sky. Or why we wouldn’t conclude that the dots on our computer screen aren’t merely pixels. Induction also fails to address how our theories often feature spectacularly different phenomena than what we’ve seen before. The far just isn’t like the near; the unseen very different from the seen.
 
-Induction also fails to address how our theories often feature spectacularly different phenomena than what we’ve seen before. The far just isn’t like the near; the unseen very different from the seen.
+We have to explain what we see in terms of what we don’t see, but therein lies a logical gap: 
 
-We have to explain what we see in terms of what we don’t see, but therein lies a logical gap. No amount of deduction applied to statements describing a set of experiences can reach a conclusion about anything other than those experiences.
+> No amount of deduction applied to statements describing a set of experiences can reach a conclusion about anything other than those experiences. -- David Deutsch
 
 All our predictions of how things will _look_ are deduced from such explanations of how things _are_.
 
