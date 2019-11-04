@@ -3,11 +3,11 @@
     
     --MAIN-TEXT-color:#323232; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #d3d3d3; /* Color of titles h2-h3-h4-h5 */
-    --MAIN-LINK-color:#rgb(0, 82, 153); /* Color of links */
+    --MAIN-LINK-color:#00bdf3; /* Color of links */
     --MAIN-LINK-HOVER-color:#167ad0; /* Color of hovered links */
-    --MAIN-ANCHOR-color: #rgb(0, 82, 153); /* color of anchors on titles */
+    --MAIN-ANCHOR-color: #005299; /* color of anchors on titles */
 
-    --MENU-HEADER-BG-color:rgb(0, 63, 117); /* Background color of menu header */
+    --MENU-HEADER-BG-color:#003f75; /* Background color of menu header */
     --MENU-HEADER-BORDER-color:#1d507e; /*Color of menu header border */ 
 
     --MENU-SEARCH-BG-color:#1f2429; /* Search field background color (by default borders + icons) */
