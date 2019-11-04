@@ -52,6 +52,8 @@ Every religion faces its own version of this corruption — and its been an exha
 
 This includes the sun cycle — inverted to represent endless churn. And it includes sacrifice. This Cult speaks publicly to its members through open symbolism — symbolism that will be its downfall as the public picks up the decoding rules.
 
+> Recall that “holocaust” means “burnt sacrifice”. It was always the [Cult].
+
 For its secret practices and beliefs are indefensible in the light of public scrutiny. As the curtain is drawn on these Wizards of Oz, they’re revealed to be pitiful, dangerously misled misfits. They can’t or won’t allow civilization to blossom — they’re stunting our development. It’s time to bring their era to a close. As it turns out, this is already happening. [Watch CEO resignations](https://www.resignation.info/). Watch the world rise up in revolution. Watch the criminality get exposed, leaked, and ultimately brought to justice.
 
 Watch the world wake up.
