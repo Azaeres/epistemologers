@@ -1,7 +1,7 @@
 ---
 title: "From Metaprogramming to the Great Awakening"
 date: 2019-11-03T23:33:17-08:00
-draft: true
+draft: false
 tags: ["physics", "fallibilism", "information", "proof", "computer science", "science", "evolution", "people", "metaprogramming", "ethics", "religion", "great awakening", "progress", "knowledge", "epistemology", "philosophy"]
 ---
 
