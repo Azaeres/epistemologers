@@ -21,3 +21,6 @@ The more progress you make, the closer you get to their wall. They don't want yo
 Once we've sloughed off their irrational memeplex, we abandon the pessimism that came with it. The world IS waking up — and with that comes new challenges, and new opportunities we GET to take advantage of. This world is owned by its people.
 
 Reclaim it!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The global order is an instance of the &quot;cult template&quot;, composed out of nested instances. At the bottom, the part where most of us experience it, line&#39;s of control are dominated by &quot;thought guidance&quot; (eg. the media) and pos/neg coercion (eg. a salary, or punitive threats).</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1193288671908155393?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
