@@ -31,5 +31,5 @@ As the Awakening proceeds, they’ll continue to try to capture attention even a
 
 The final sacrifice. There won’t be another empire after this.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Why does so much of the music industry promote Satanic tropes?<br><br>The “beast” idea promotes the nonperson side of humans. That side is necessarily bounded — whereas the part of humans that is a person can rise above it and out of their control.<br><br>Stagnation.<a href="https://t.co/naHaUDFTg0">https://t.co/naHaUDFTg0</a></p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1193311849602674689?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Why does so much of the music industry promote Satanic tropes?<br><br>The “beast” idea promotes the nonperson side of humans. That side is necessarily bounded — whereas the part of humans that is a person can rise above it and out of their control.<br><br>Stagnation.<a href="https://t.co/naHaUDFTg0">https://t.co/naHaUDFTg0</a></p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1193311849602674689?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

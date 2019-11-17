@@ -29,5 +29,5 @@ For example, for it to work we must boldly risk trying designs that may be bad. 
 
 These key ideas (and the many related concepts) will be a welcome guide through the chaos of the #GreatAwakening.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">All information is embodied in the physical properties of some substrate.<br><br>That substrate can be material (like ink on paper, etc), forming a layer within which abstract objects can be instantiated. That substrate can also be another layer of abstraction.<br><br>Abstractions are REAL.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192527614474248192?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">All information is embodied in the physical properties of some substrate.<br><br>That substrate can be material (like ink on paper, etc), forming a layer within which abstract objects can be instantiated. That substrate can also be another layer of abstraction.<br><br>Abstractions are REAL.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192527614474248192?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

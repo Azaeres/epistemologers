@@ -17,5 +17,5 @@ This also explains why there are no perfectly random processes to be found anywh
 
 But common sense isn’t always our best judge. Our best explanations are.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In abstraction theory, logic consists of those elementary building blocks we can model any mathematical relationship with. This is thanks to the law of the universality of computation — the same law that prohibits the supernatural.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1186794356734222337?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">In abstraction theory, logic consists of those elementary building blocks we can model any mathematical relationship with. This is thanks to the law of the universality of computation — the same law that prohibits the supernatural.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1186794356734222337?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

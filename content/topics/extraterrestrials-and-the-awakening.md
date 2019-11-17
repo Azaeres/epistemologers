@@ -31,5 +31,5 @@ Brace for:
 2. Sudden, rapid progress in all areas.
 3. Gradual trade agreements with extraterrestrial nations.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As for high technology of ancient or extraterrestrial origin, the people of Earth are a kind of cargo cult.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192575978704261120?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">As for high technology of ancient or extraterrestrial origin, the people of Earth are a kind of cargo cult.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192575978704261120?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

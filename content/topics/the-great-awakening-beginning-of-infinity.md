@@ -15,7 +15,7 @@ I don’t think the trend toward global nationalization is an accident. I think 
 
 This ramp-up might feel overwhelming. Mainstream philosophy leaves us unprepared for what’s about to happen. But I’m optimistic: each problem we’ll encounter is solvable with the right knowledge — especially if our knowledge-building rate is _rapid_. In fact, the more rapid the rate of knowledge-building, the _more_ unpredictable the future becomes. And all the while we become _more_ capable of keeping up with the pace of problems that arise.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Great Awakening is poised to dwarf the Western Enlightenment as what David Deutsch calls “a beginning of infinity”.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1181357408007815168?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">The Great Awakening is poised to dwarf the Western Enlightenment as what David Deutsch calls “a beginning of infinity”.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1181357408007815168?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [^1]: <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B005DXR5ZC&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_WXJSDbTZBYKG5" ></iframe>

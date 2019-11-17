@@ -29,5 +29,5 @@ The people have restored the traditions of criticism — the means of correcting
 
 The people are waking up.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Memes, and complexes of memes, are packages of information that contribute causally to their own replication.<br><br>They cause their own replication by exploiting quirks of their environment.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192556817026469888?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Memes, and complexes of memes, are packages of information that contribute causally to their own replication.<br><br>They cause their own replication by exploiting quirks of their environment.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1192556817026469888?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

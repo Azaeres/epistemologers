@@ -19,5 +19,5 @@ But the truth CAN be acquired in a different way -- through the search for bette
 
 This is a crucially important fact that deserves repeating and retweeting until the world is familiar.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The law of inevitable error.<br><br>No source of information is exempt. So instead of trusting sources, we want to evaluate them for good explanations.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1190738936328421376?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">The law of inevitable error.<br><br>No source of information is exempt. So instead of trusting sources, we want to evaluate them for good explanations.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1190738936328421376?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

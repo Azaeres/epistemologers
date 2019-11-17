@@ -17,5 +17,5 @@ And then there’s the infamous “problem of induction” — which was arguabl
 
 And if induction is problematic, then so is empiricism. If one cannot derive predictions from experience, one certainly cannot derive explanations. Discovering a new explanation is inherently an act of creativity.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Induction fails to address, for example, why we wouldn’t just conclude that stars are just dots in the sky. Or why we wouldn’t conclude that the dots on our computer screen aren’t merely pixels.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1111791475040256001?ref_src=twsrc%5Etfw">March 30, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Induction fails to address, for example, why we wouldn’t just conclude that stars are just dots in the sky. Or why we wouldn’t conclude that the dots on our computer screen aren’t merely pixels.</p>&mdash; Aza (@Azaeres) <a href="https://twitter.com/Azaeres/status/1111791475040256001?ref_src=twsrc%5Etfw">March 30, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
