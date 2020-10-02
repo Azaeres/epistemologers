@@ -24,8 +24,12 @@ Again, this should be relatively simple to agree with.  Captalism is one of the 
 It gave people the ability to own their own land and property, and decide for themselves how best to use it.  The concepts of capitalism are so powerful it's even preported enemies
 have to utilize it to compete. 
 
-## 4. Beuracracy is to be avoided as much as possible
+## 3. Beuracracy is to be avoided as much as possible
 
+## 4. America is worth defending
 
-## 3. The Government must have a monopoly on violence inside of it's state
+## 5. The Government must have a monopoly on violence inside of it's state
+
+## 6. American must remain the superpower
+and only relinquish it's spot if there is an heir that champions it's values
 
