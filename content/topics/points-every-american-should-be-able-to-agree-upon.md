@@ -9,8 +9,8 @@ From easiest to defend to hardest to defend.
 I define Government here as a social system that enforces the norms and rules of a society.
 
 No matter who you are, whether you want more or less, we can't deny that having a system that exists outside of our economic system is good.  
-A pure capitalist or any anarchic system would leave us with many problems, how would our roads be maintained? how can we effectively defend ourselves without a military?
-Without direction would we really be able to secure the resources required to effectively feed the country? a feat that still illudes many other countries with governments.
+A pure capitalist or any anarchic system would leave us with many problems, how would our roads be maintained? How can we effectively defend ourselves without a military?
+Without direction would we really be able to secure the resources required to effectively feed the country?
 How can we effectively manage crime and nefarious actors without an external, social system?
 
 I think that anyone seriously considering the consequences of an anarchic government including nefarious actors and people who simply won't play by the 'rules' must agree that
