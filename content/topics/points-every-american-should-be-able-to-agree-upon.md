@@ -16,7 +16,9 @@ How can we effectively manage crime and nefarious actors without an external, so
 I think that anyone seriously considering the consequences of an anarchic government including nefarious actors and people who simply won't play by the 'rules' must agree that
 we must have some form of governance and some way of keeping a social order.
 
-## 2. Capitalism is good.
+## 2. Beuracracy is to be avoided as much as possible
+
+## 3. Capitalism is good.
 
 I define capitalism here as the ability to own private property, and produce whatever you wish with it.
 
@@ -24,12 +26,12 @@ Again, this should be relatively simple to agree with.  Captalism is one of the 
 It gave people the ability to own their own land and property, and decide for themselves how best to use it.  The concepts of capitalism are so powerful it's even preported enemies
 have to utilize it to compete. 
 
-## 3. Beuracracy is to be avoided as much as possible
+## 4. Government Should restrict Capitalism
 
-## 4. America is worth defending
+## 5. America is worth defending
 
-## 5. The Government must have a monopoly on violence inside of it's state
+## 6. The Government must have a monopoly on violence inside of it's state
 
-## 6. American must remain the superpower
+## 7. American must remain the superpower
 and only relinquish it's spot if there is an heir that champions it's values
 
